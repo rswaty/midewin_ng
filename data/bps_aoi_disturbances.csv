@@ -1,0 +1,61 @@
+"","TransitionGroupID","Model_Code","annual_probability","BpS_Name","...1","BLUE","ACRES","REL_PERCENT","annual_dist_acres"
+"1","All Fire","13100_49",0.0793404,"North-Central Interior Dry-Mesic Oak Forest and Woodland",2,0.870588235,6117,21.9,485.3252268
+"2","All Fire","13110_49",0.1068442,"North-Central Interior Dry Oak Forest and Woodland",5,0.560784314,6,0,0.6410652
+"3","All Fire","14120_49",0.2907254,"North-Central Interior Sand and Gravel Tallgrass Prairie",6,0.615686275,3,0,0.8721762
+"4","All Fire","14210_49_52",0.2820258,"Central Tallgrass Prairie",1,0.768627451,21278,76.3,6000.9449724
+"5","All Fire","14690_38_42_49",0.0206142,"Eastern Great Plains Floodplain Systems",4,0.745098039,27,0.1,0.5565834
+"6","All Fire","14710_49_52",0.0171822,"Central Interior and Appalachian Floodplain Systems",7,0.690196078,7,0,0.1202754
+"7","All Fire","15180_43_47_49_52_62_63_64_65",0.0010006,"North-Central Interior Wet Flatwoods",8,0.149019608,0,0,0
+"8","All Transitions","13100_49",0.1237678,"North-Central Interior Dry-Mesic Oak Forest and Woodland",2,0.870588235,6117,21.9,757.0876326
+"9","All Transitions","13110_49",0.1154934,"North-Central Interior Dry Oak Forest and Woodland",5,0.560784314,6,0,0.6929604
+"10","All Transitions","14120_49",0.3052058,"North-Central Interior Sand and Gravel Tallgrass Prairie",6,0.615686275,3,0,0.9156174
+"11","All Transitions","14210_49_52",0.3121762,"Central Tallgrass Prairie",1,0.768627451,21278,76.3,6642.4851836
+"12","All Transitions","14690_38_42_49",0.0973822,"Eastern Great Plains Floodplain Systems",4,0.745098039,27,0.1,2.6293194
+"13","All Transitions","14710_49_52",0.2329834,"Central Interior and Appalachian Floodplain Systems",7,0.690196078,7,0,1.6308838
+"14","All Transitions","15180_43_47_49_52_62_63_64_65",0.0040022,"North-Central Interior Wet Flatwoods",8,0.149019608,0,0,0
+"15","Alternative Succession","13100_49",0.0423428,"North-Central Interior Dry-Mesic Oak Forest and Woodland",2,0.870588235,6117,21.9,259.0109076
+"16","Alternative Succession","13110_49",0.0028422,"North-Central Interior Dry Oak Forest and Woodland",5,0.560784314,6,0,0.0170532
+"17","Alternative Succession","14120_49",0.0081176,"North-Central Interior Sand and Gravel Tallgrass Prairie",6,0.615686275,3,0,0.0243528
+"18","Alternative Succession","14210_49_52",0.0059384,"Central Tallgrass Prairie",1,0.768627451,21278,76.3,126.3572752
+"19","Alternative Succession","14690_38_42_49",0.012811,"Eastern Great Plains Floodplain Systems",4,0.745098039,27,0.1,0.345897
+"20","Mixed Fire","13100_49",0.021461,"North-Central Interior Dry-Mesic Oak Forest and Woodland",2,0.870588235,6117,21.9,131.276937
+"21","Mixed Fire","13110_49",0.0066474,"North-Central Interior Dry Oak Forest and Woodland",5,0.560784314,6,0,0.0398844
+"22","Mixed Fire","14690_38_42_49",0.0129842,"Eastern Great Plains Floodplain Systems",4,0.745098039,27,0.1,0.3505734
+"23","Mixed Fire","14710_49_52",0.0023186,"Central Interior and Appalachian Floodplain Systems",7,0.690196078,7,0,0.0162302
+"24","Native Grazing","13100_49",0.001616,"North-Central Interior Dry-Mesic Oak Forest and Woodland",2,0.870588235,6117,21.9,9.885072
+"25","Native Grazing","13110_49",0.004795,"North-Central Interior Dry Oak Forest and Woodland",5,0.560784314,6,0,0.02877
+"26","Non Fire Disturbances","13100_49",0.0020846,"North-Central Interior Dry-Mesic Oak Forest and Woodland",2,0.870588235,6117,21.9,12.7514982
+"27","Non Fire Disturbances","13110_49",0.005807,"North-Central Interior Dry Oak Forest and Woodland",5,0.560784314,6,0,0.034842
+"28","Non Fire Disturbances","14120_49",0.0063628,"North-Central Interior Sand and Gravel Tallgrass Prairie",6,0.615686275,3,0,0.0190884
+"29","Non Fire Disturbances","14210_49_52",0.024212,"Central Tallgrass Prairie",1,0.768627451,21278,76.3,515.182936
+"30","Non Fire Disturbances","14690_38_42_49",0.063957,"Eastern Great Plains Floodplain Systems",4,0.745098039,27,0.1,1.726839
+"31","Non Fire Disturbances","14710_49_52",0.2158012,"Central Interior and Appalachian Floodplain Systems",7,0.690196078,7,0,1.5106084
+"32","Non Fire Disturbances","15180_43_47_49_52_62_63_64_65",0.0030016,"North-Central Interior Wet Flatwoods",8,0.149019608,0,0,0
+"33","Non Replacement Fire","13100_49",0.0656992,"North-Central Interior Dry-Mesic Oak Forest and Woodland",2,0.870588235,6117,21.9,401.8820064
+"34","Non Replacement Fire","13110_49",0.0998726,"North-Central Interior Dry Oak Forest and Woodland",5,0.560784314,6,0,0.5992356
+"35","Non Replacement Fire","14120_49",0.0114148,"North-Central Interior Sand and Gravel Tallgrass Prairie",6,0.615686275,3,0,0.0342444
+"36","Non Replacement Fire","14690_38_42_49",0.0186404,"Eastern Great Plains Floodplain Systems",4,0.745098039,27,0.1,0.5032908
+"37","Non Replacement Fire","14710_49_52",0.0171822,"Central Interior and Appalachian Floodplain Systems",7,0.690196078,7,0,0.1202754
+"38","Optional 1","14690_38_42_49",0.008384,"Eastern Great Plains Floodplain Systems",4,0.745098039,27,0.1,0.226368
+"39","Optional 1","14710_49_52",0.2012874,"Central Interior and Appalachian Floodplain Systems",7,0.690196078,7,0,1.4090118
+"40","Optional 2","14690_38_42_49",0.0020766,"Eastern Great Plains Floodplain Systems",4,0.745098039,27,0.1,0.0560682
+"41","Optional 2","14710_49_52",0.0145138,"Central Interior and Appalachian Floodplain Systems",7,0.690196078,7,0,0.1015966
+"42","Optional Types","14690_38_42_49",0.0104606,"Eastern Great Plains Floodplain Systems",4,0.745098039,27,0.1,0.2824362
+"43","Optional Types","14710_49_52",0.2158012,"Central Interior and Appalachian Floodplain Systems",7,0.690196078,7,0,1.5106084
+"44","Replacement Fire","13100_49",0.0136412,"North-Central Interior Dry-Mesic Oak Forest and Woodland",2,0.870588235,6117,21.9,83.4432204
+"45","Replacement Fire","13110_49",0.0069716,"North-Central Interior Dry Oak Forest and Woodland",5,0.560784314,6,0,0.0418296
+"46","Replacement Fire","14120_49",0.2793106,"North-Central Interior Sand and Gravel Tallgrass Prairie",6,0.615686275,3,0,0.8379318
+"47","Replacement Fire","14210_49_52",0.2820258,"Central Tallgrass Prairie",1,0.768627451,21278,76.3,6000.9449724
+"48","Replacement Fire","14690_38_42_49",0.0019738,"Eastern Great Plains Floodplain Systems",4,0.745098039,27,0.1,0.0532926
+"49","Replacement Fire","15180_43_47_49_52_62_63_64_65",0.0010006,"North-Central Interior Wet Flatwoods",8,0.149019608,0,0,0
+"50","Surface Fire","13100_49",0.0442382,"North-Central Interior Dry-Mesic Oak Forest and Woodland",2,0.870588235,6117,21.9,270.6050694
+"51","Surface Fire","13110_49",0.0932252,"North-Central Interior Dry Oak Forest and Woodland",5,0.560784314,6,0,0.5593512
+"52","Surface Fire","14120_49",0.0114148,"North-Central Interior Sand and Gravel Tallgrass Prairie",6,0.615686275,3,0,0.0342444
+"53","Surface Fire","14690_38_42_49",0.0056562,"Eastern Great Plains Floodplain Systems",4,0.745098039,27,0.1,0.1527174
+"54","Surface Fire","14710_49_52",0.0148636,"Central Interior and Appalachian Floodplain Systems",7,0.690196078,7,0,0.1040452
+"55","Wind or Weather or Stress","13100_49",0.0004686,"North-Central Interior Dry-Mesic Oak Forest and Woodland",2,0.870588235,6117,21.9,2.8664262
+"56","Wind or Weather or Stress","13110_49",0.001012,"North-Central Interior Dry Oak Forest and Woodland",5,0.560784314,6,0,0.006072
+"57","Wind or Weather or Stress","14120_49",0.0063628,"North-Central Interior Sand and Gravel Tallgrass Prairie",6,0.615686275,3,0,0.0190884
+"58","Wind or Weather or Stress","14210_49_52",0.024212,"Central Tallgrass Prairie",1,0.768627451,21278,76.3,515.182936
+"59","Wind or Weather or Stress","14690_38_42_49",0.0534964,"Eastern Great Plains Floodplain Systems",4,0.745098039,27,0.1,1.4444028
+"60","Wind or Weather or Stress","15180_43_47_49_52_62_63_64_65",0.0030016,"North-Central Interior Wet Flatwoods",8,0.149019608,0,0,0
